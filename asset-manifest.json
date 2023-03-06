@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FewRecipes/static/css/main.ad83a311.css",
+    "main.js": "/FewRecipes/static/js/main.19bb92e2.js",
+    "static/js/27.08d7b9ce.chunk.js": "/FewRecipes/static/js/27.08d7b9ce.chunk.js",
+    "static/media/no-food-forbidden-svgrepo-com.svg": "/FewRecipes/static/media/no-food-forbidden-svgrepo-com.24ae1e07966fcfb18fc32e421841e6a6.svg",
+    "static/media/category-1-svgrepo-com.svg": "/FewRecipes/static/media/category-1-svgrepo-com.d5b870a1dcf9ba17bf6b4c0c8dfa6c96.svg",
+    "static/media/ingredients-svgrepo-com.svg": "/FewRecipes/static/media/ingredients-svgrepo-com.089a32d4aa266aeab0c942830f64ae41.svg",
+    "static/media/contact-chatting-communication-svgrepo-com.svg": "/FewRecipes/static/media/contact-chatting-communication-svgrepo-com.f1da5b11e65820f5919c25529a855d11.svg",
+    "static/media/noodles-in-bowl-svgrepo-com.svg": "/FewRecipes/static/media/noodles-in-bowl-svgrepo-com.9fa1b2bb571fad19de4b9cdc28c72b50.svg",
+    "static/media/pot-of-food-svgrepo-com.svg": "/FewRecipes/static/media/pot-of-food-svgrepo-com.b29335b5014593cb8444e50ae0e88743.svg",
+    "static/media/Logo.svg": "/FewRecipes/static/media/Logo.09c878f6ab9b0332086a19321d1a42e6.svg",
+    "static/media/fire-svgrepo-com.svg": "/FewRecipes/static/media/fire-svgrepo-com.92069c2ac53b62b5de020efeae12ac41.svg",
+    "static/media/cutlery-svgrepo-com.svg": "/FewRecipes/static/media/cutlery-svgrepo-com.f48d54ae48df76c761b8dd8d7577034c.svg",
+    "static/media/nofoodimg.svg": "/FewRecipes/static/media/nofoodimg.21bb7152f4245cba36be500227f60fbb.svg",
+    "static/media/list-svgrepo-com.svg": "/FewRecipes/static/media/list-svgrepo-com.50720ef6c8c5db4ce603360c848e3ba8.svg",
+    "static/media/glitter-2-svgrepo-com.svg": "/FewRecipes/static/media/glitter-2-svgrepo-com.cba58e0cecd2fb62e2d5c90d960c773d.svg",
+    "static/media/contract-coverage-svgrepo-com.svg": "/FewRecipes/static/media/contract-coverage-svgrepo-com.ba163807d9c90650afc57d0227d40637.svg",
+    "static/media/alphabet-svgrepo-com.svg": "/FewRecipes/static/media/alphabet-svgrepo-com.65a236008d98fbeb296add08dd66f8f9.svg",
+    "static/media/privacy-4-svgrepo-com.svg": "/FewRecipes/static/media/privacy-4-svgrepo-com.94cfae308faa0946b224d34e04f8a4d9.svg",
+    "static/media/about-svgrepo-com.svg": "/FewRecipes/static/media/about-svgrepo-com.392ea463763990b4ce8def89f7750765.svg",
+    "index.html": "/FewRecipes/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ad83a311.css",
+    "static/js/main.19bb92e2.js"
+  ]
+}
